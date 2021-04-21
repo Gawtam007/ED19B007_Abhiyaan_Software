@@ -1,13 +1,12 @@
 # ED19B007_Abhiyaan_Software
 
-# Abhiyaan
 Software Application
-
 
 Submission for Team Abhiyaan
 ============================
 
 Name: Gawtam C R
+
 Roll Number: ED19B007
 
 Previous Experience: 
@@ -39,6 +38,15 @@ Introduction to tensorflow (Done)
 
 Section A
 ---------
+ - I've used Virtual Machine for Ubuntu. 
+ - Code for question 2 - gawtam2.py 
+ - Code for question 3 - gawtam2list.py
+ - Code for question 4 - move.py
 
-1. I've used Virtual Machine instead of Dual Boot, I hope it's fine.
-2. 
+Section B
+---------
+ - Programming : gawtam.py
+ - Computer Vision : 
+    1. Image : final.py (I've attached trial.py where I tried out stuff initially)
+    2. Video : crg_video.py
+
