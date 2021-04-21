@@ -1,0 +1,13 @@
+/home/gawtam/catkin_ws/install/_setup_util.py
+/home/gawtam/catkin_ws/install/env.sh
+/home/gawtam/catkin_ws/install/setup.bash
+/home/gawtam/catkin_ws/install/local_setup.bash
+/home/gawtam/catkin_ws/install/setup.sh
+/home/gawtam/catkin_ws/install/local_setup.sh
+/home/gawtam/catkin_ws/install/setup.zsh
+/home/gawtam/catkin_ws/install/local_setup.zsh
+/home/gawtam/catkin_ws/install/.rosinstall
+/home/gawtam/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/gawtam/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/gawtam/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/gawtam/catkin_ws/install/share/beginner_tutorials/package.xml
