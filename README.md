@@ -43,7 +43,9 @@ Section A
  - I've used Virtual Machine for Ubuntu. 
  - Code for question 2 - gawtam2.py 
  - Code for question 3 - gawtam2list.py
- - Code for question 4 - move.py
+ - Code for question 4 - move.py!
+ - Path of the turtle[image](https://user-images.githubusercontent.com/56129853/116775106-a70a3f80-aa7e-11eb-9436-bcbdea6993a4.png)
+
 
 Section B
 ---------
